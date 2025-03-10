@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning some stuff related to AI.
 
-[![Zaiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chriszai)](https://github.com/anuraghazra/github-readme-stats)
+[![Zaiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chriszai)](https://github.com/chriszai/github-readme-stats)
 [![Zaiyu](https://github-profile-trophy.vercel.app/?username=Chriszai)](https://github.com/ryo-ma/github-profile-trophy)
